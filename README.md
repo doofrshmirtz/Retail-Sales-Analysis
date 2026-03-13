@@ -34,7 +34,7 @@ The analysis includes visualizations such as:
 - Monthly sales trends
   images/monthly sales.png
 - Top 10 stores by sales
-- 
+  images/top 10 stores.png
 - Top products by units sold
 images/top 10 products.png
 
