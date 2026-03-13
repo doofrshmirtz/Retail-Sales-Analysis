@@ -36,6 +36,7 @@ The analysis includes visualizations such as:
 - Top 10 stores by sales
 - 
 - Top products by units sold
+images/top 10 products.png
 
 5.  Future Improvements:
 Possible extensions of this project include:
