@@ -34,9 +34,9 @@ The analysis includes visualizations such as:
 - Monthly sales trends
   [Monthly sales trend](images/monthly_sales.png)
 - Top 10 stores by sales
-  [](images/top_10_stores.png)
+  [Top 10 stores by sales](images/top_10_stores.png)
 - Top products by units sold
-[](images/top_10_products.png)
+[top products by sale](images/top_10_products.png)
 
 5.  Future Improvements:
 Possible extensions of this project include:
