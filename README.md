@@ -1,4 +1,5 @@
 Retail Sales Analysis (Tonin Kaipada Thomas, M.Sc Data Science)
+
 This project analyzes retail sales data across multiple stores and products using Python.
 1. Tools Used:
 - Python
@@ -28,9 +29,12 @@ Two datasets are included-
 7. Identifying top-selling products
 8. Visualizing trends and performance using charts
 4. Visualizations:
+5. 
 The analysis includes visualizations such as:
 - Monthly sales trends
+  images/monthly sales.png
 - Top 10 stores by sales
+- 
 - Top products by units sold
 
 5.  Future Improvements:
